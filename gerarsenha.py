@@ -15,4 +15,23 @@ for letras in chave:
         senha = senha + "10"
     elif letras in "Bb":
         senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+    elif letras in "Bb":
+        senha = senha + "11"
+        
         
