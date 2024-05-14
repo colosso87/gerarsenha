@@ -32,5 +32,7 @@ for letras in chave:
     elif letras in "Rr": senha = senha + "#"
     elif letras in "Ss": senha = senha + "%"
     elif letras in "Mm": senha = senha + "$"
+    elif letras in "Uu": senha = senha + "@"
+    elif letras in "Gg": senha = senha + "*"
     else: senha = senha + letras
 print(senha)             
